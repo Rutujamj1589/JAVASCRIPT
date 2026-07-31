@@ -108,4 +108,8 @@
 //  practice question:
 
 
-prompt("enter your name without spaces :")
+let fullName = prompt("enter your name without spaces :")
+
+let userName = "@" + fullName + fullName.length;
+
+console.log(userName);
