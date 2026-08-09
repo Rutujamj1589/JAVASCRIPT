@@ -25,3 +25,6 @@ modebtn.addEventListener("click",()=>{
         console.log(currmode);
     }
 })
+
+
+
