@@ -24,7 +24,7 @@ JavaScript – Used to implement game logic, player turns, and winner detection
 
   
 ## Project Structure
-
+```text
 Tic-Tac-Toe/
 │
 ├── index.html
@@ -33,6 +33,7 @@ Tic-Tac-Toe/
 ├── screenshots/
 │   └── tic-tac-toe.png
 └── README.md
+```
 
 
 
