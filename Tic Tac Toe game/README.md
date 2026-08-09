@@ -31,3 +31,4 @@ Tic-Tac-Toe/
 📸 Screenshot
 
 ![Tic Tac Toe game](screenshots/TIC_TAC.png)
+![Tic Tac Toe game](screenshots/TIC_TAC2.png)
