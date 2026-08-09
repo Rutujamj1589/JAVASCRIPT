@@ -1,4 +1,4 @@
-###Tic Tac Toe Game
+# Tic Tac Toe Game
 
 A simple and interactive Tic Tac Toe game built using HTML, CSS, and JavaScript.
 The game allows two players to play against each other, automatically detects the winner, and provides an option to start a new game.
@@ -15,7 +15,7 @@ HTML – Used to create the structure of the game
 CSS – Used for styling and designing the game interface
 JavaScript – Used to implement game logic, player turns, and winner detection
 
-# How to Play:
+## How to Play:
 - Player O starts the game.
 - Players take turns placing O and X on the board.
 - The game checks the winning combinations after each move.
@@ -24,6 +24,7 @@ JavaScript – Used to implement game logic, player turns, and winner detection
 
   
 ## Project Structure
+
 Tic-Tac-Toe/
 │
 ├── index.html
@@ -32,7 +33,10 @@ Tic-Tac-Toe/
 ├── screenshots/
 │   └── tic-tac-toe.png
 └── README.md
-##Screenshot
+
+
+
+## Screenshot
 
 ![Tic Tac Toe game](screenshots/TIC_TAC.png)
 ![Tic Tac Toe game](screenshots/TIC_TAC2.png)
