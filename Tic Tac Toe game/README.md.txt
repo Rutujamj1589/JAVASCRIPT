@@ -29,3 +29,5 @@ Tic-Tac-Toe/
 │   └── tic-tac-toe.png
 └── README.md
 📸 Screenshot
+
+![Tic Tac Toe game](screenshots/TIC_TAC.png)
