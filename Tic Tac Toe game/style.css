@@ -33,6 +33,7 @@ body{
     box-shadow: 0 0 1rem rgba(0,0,0.9);
     font-size: 8vmin;
     color: #b0413e;
+    background-color: #ffffc7;
 }
 
 #reset-button{
@@ -43,3 +44,31 @@ body{
     border-radius: 1rem;
     border: none;
 }
+.msg-container{
+    height: 100vmin;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 4rem;
+}
+
+#msg{
+    color: white;
+    font-size: 10vmin;
+}
+
+
+#new-btn{
+    padding : 1rem;
+    font-size: 1.25rem;
+    background-color: #191876;
+    color:#fff;
+    border-radius: 1rem;
+    border: none;
+}
+
+.hide{
+    display: none;
+}
+
