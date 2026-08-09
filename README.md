@@ -34,6 +34,7 @@ JAVASCRIPT/
 ├── function.html
 ├── dom.html
 └── event.html
+```
 
 ##  Purpose of This Repository
 Build a strong foundation in JavaScript.
@@ -43,3 +44,15 @@ Understand how JavaScript interacts with HTML using the DOM.
 Learn event handling and create interactive web pages.
 Track my progress while learning JavaScript.
 
+## Next Steps
+ - Advanced JavaScript
+ - ES6+ Features
+ - Asynchronous JavaScript
+ - Promises
+ - Async/Await
+ - Fetch API
+ - APIs
+ - JavaScript Modules
+ - Object-Oriented JavaScript
+
+# This repository will be continuously updated as I learn new JavaScript concepts and build more projects.
