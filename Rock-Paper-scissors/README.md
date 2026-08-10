@@ -51,26 +51,7 @@ Rock-Paper-Scissors/
 
 ## 📸 Screenshot
 
-Add your game screenshot inside the `screenshots` folder and use:
-
-```markdown
 ![Rock-Paper-Scissors](screenshots/rps1.png)
 ![Rock-Paper-Scissors](screenshots/rps2.png)
 ![Rock-Paper-Scissors](screenshots/rps3.png)
-```
 
-## 🚀 Future Improvements
-
-* Add sound effects
-* Add difficulty levels
-* Add animations
-* Add a reset score button
-* Add multiplayer functionality
-
-## 👩‍💻 Author
-
-**Rutuja Jadhav**
-
----
-
-⭐ If you like this project, feel free to star the repository!
